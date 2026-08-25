@@ -1,10 +1,6 @@
 # SkipRewardAd
-ĞèÒªXposed¼¤»îÄ£¿é£¬LSPµÈĞèÒª¹´Ñ¡Ó¦ÓÃ²ÅÄÜÉúĞ§ £¨Need Xposed activation module£©
+éœ€è¦Xposedæ¿€æ´»æ¨¡å—ï¼ŒLSPç­‰éœ€è¦å‹¾é€‰åº”ç”¨æ‰èƒ½ç”Ÿæ•ˆ ï¼ˆNeed Xposed activation moduleï¼‰
 
-ÓĞÒ»¶¨¸ÅÂÊÖ±½ÓÌø¹ı¼¤ÀøÊÓÆµ²¢»ñÈ¡½±Àø£¨Skip some reward videos and get the rewards directly£©
+æœ‰ä¸€å®šæ¦‚ç‡ç›´æ¥è·³è¿‡æ¿€åŠ±è§†é¢‘å¹¶è·å–å¥–åŠ±ï¼ˆSkip some reward videos and get the rewards directlyï¼‰
 
-¿ÉÄÜ»á¶ÔÕâĞ©¹ã¸æÉúĞ§£º°Ù¶È¡¢´©É½¼×¡¢¹ãµãÍ¨¡¢¿ìÊÖ¡¢Applovin¡¢Fusion¡¢Google¡¢Mintegral¡¢Sigmob¡¢Unity¡¢Vungle
-
-[°®·¢µç (Afdian)](https://afdian.net/a/LinYuLuo)
-
-[ÏÂÔØ (Download)](https://www.lanzouy.com/b05dmwlji) ÃÜÂë0000 (Password is 0000)
+å¯èƒ½ä¼šå¯¹è¿™äº›å¹¿å‘Šç”Ÿæ•ˆï¼šç™¾åº¦ã€ç©¿å±±ç”²ã€å¹¿ç‚¹é€šã€å¿«æ‰‹ã€Applovinã€Fusionã€Googleã€Mintegralã€Sigmobã€Unityã€Vungle
